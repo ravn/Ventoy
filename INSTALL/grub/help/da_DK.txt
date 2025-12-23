@@ -1,0 +1,19 @@
+ L - Vælg sprog
+F1 - Vis hjælpetekst
+F2 - Naviger og start op fra filer på den lokale disk
+F3 - Skift menutilstand mellem Trævisning <-> Listevisning
+F4 - Start Windows/Linux fra den lokale disk
+F5 - Hjælpeværktøjer
+F6 - Indlæs tilpasset Grub2 menu
+F7 - Skift mellem grafisk og tekstvisning
+
+m/Ctrl+m - Beregn checksum for afbildningsfiler (md5/sha1/sha256/sha512)
+d/Ctrl+d - Memdisk-tilstand (Only for small WinPE/LiveCD ISO/IMG)
+w/Ctrl+w - WIMBOOT-tilstand (Only for Windows/WinPE ISO files)
+r/Ctrl+r - Grub2-tilstand (Only for some Linux distros)
+i/Ctrl+i - Kompatibel tilstand (Only for debugging)
+u/Ctrl+u - Indlæs ISO EFI driver (Only for debugging, cannot be used officially)
+
+
+
+Tryk ESC for at gå tilbage ......

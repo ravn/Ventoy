@@ -1,0 +1,93 @@
+{
+    "VTLANG_LANGUAGE_NAME": "Danish (Dansk)",
+    
+    "VTLANG_STR_HOTKEY_LIST": "L:Sprog  F1:Hjælp  F2:Navigér  F3:Listevisning  F4:Lokal start  F5:Værktøjer  F6:ExMenu",
+    "VTLANG_STR_HOTKEY_TREE": "L:Sprog  F1:Hjælp  F2:Navigér  F3:Trævisning  F4:Lokal start  F5:Værktøjer  F6:ExMenu",
+    "VTLANG_RETURN_PREVIOUS": "Vend tilbage til forrige menu [Esc]",
+    "VTLANG_RETURN_PRV_NOESC": "Vend tilbage til forrige menu",
+    
+    "VTLANG_MENU_LANG": "Vælg menusprog",
+    
+    "VTLANG_LB_SBOOT_WINDOWS": "Søg efter og start Windows",
+    "VTLANG_LB_SBOOT_G4D": "Søg efter og start Grub4dos",
+    "VTLANG_LB_SBOOT_HDD1": "Start fra første lokale disk",
+    "VTLANG_LB_SBOOT_HDD2": "Start fra anden lokale disk",
+    "VTLANG_LB_SBOOT_HDD3": "Start fra tredje lokale disk",
+    "VTLANG_LB_SBOOT_X64EFI": "Søg efter og start BOOTX64.EFI",
+    "VTLANG_LB_SBOOT_IA32EFI": "Søg efter og start BOOTIA32.EFI",
+    "VTLANG_LB_SBOOT_AA64EFI": "Søg efter og start BOOTAA64.EFI",
+    "VTLANG_LB_SBOOT_XORBOOT": "Søg efter og start xorboot",
+    
+    "VTLANG_FILE_CHKSUM": "Filchecksum",
+    "VTLANG_CHKSUM_MD5_CALC": "Beregn md5sum",
+    "VTLANG_CHKSUM_SHA1_CALC": "Beregn sha1sum",
+    "VTLANG_CHKSUM_SHA256_CALC": "Beregn sha256sum",
+    "VTLANG_CHKSUM_SHA512_CALC": "Beregn sha512sum",
+    "VTLANG_CHKSUM_MD5_CALC_CHK": "Beregn og kontroller md5sum",
+    "VTLANG_CHKSUM_SHA1_CALC_CHK": "Beregn og kontroller sha1sum",
+    "VTLANG_CHKSUM_SHA256_CALC_CHK": "Beregn og kontroller sha256sum",
+    "VTLANG_CHKSUM_SHA512_CALC_CHK": "Beregn og kontroller sha512sum",
+    
+    "VTLANG_POWER": "Strøm",
+    "VTLANG_POWER_REBOOT": "Genstart",
+    "VTLANG_POWER_HALT": "Nedluk",
+    "VTLANG_POWER_BOOT_EFIFW": "Genstart til EFI setup",
+    
+    "VTLANG_KEYBRD_LAYOUT": "Tastaturlayouts",
+    "VTLANG_HWINFO": "Hardwareinformation",
+    
+    "VTLANG_RESOLUTION_CFG": "Skærmopløsningsopsætning",
+    "VTLANG_SCREEN_MODE": "Skærmvisningstilstand",
+    "VTLANG_SCREEN_TEXT_MODE": "Fremtving teksttilstand",
+    "VTLANG_SCREEN_GUI_MODE": "Fremtving grafisk tilstand",
+    
+    "VTLANG_THEME_SELECT": "Temaopsætning",
+    
+    "VTLANG_UEFI_UTIL": "Ventoy UEFI-værktøjer",
+    "VTLANG_UTIL_SHOW_EFI_DRV": "Vis EFI-drivere",
+    "VTLANG_UTIL_FIX_BLINIT_FAIL": "Tag højde for Windows BlinitializeLibrary-fejlen",
+    
+    "VTLANG_JSON_CHK_JSON": "Kontrollér json modulkonfiguration (ventoy.json)",
+    "VTLANG_JSON_CHK_CONTROL": "Kontrollér global kontrolmodulkonfigurationen",
+    "VTLANG_JSON_CHK_THEME": "Kontrollér temamodulkonfigurationen",
+    "VTLANG_JSON_CHK_AUTOINS": "Kontrollér automatisk installation-modulkonfiguration",
+    "VTLANG_JSON_CHK_PERSIST": "Kontrollér databevarelsesmodulkonfigurationen",
+    "VTLANG_JSON_CHK_MENU_ALIAS": "Kontrollér menualiasmodulkonfigurationen",
+    "VTLANG_JSON_CHK_MENU_TIP": "Kontrollér menutipsmodulkonfigurationen",
+    "VTLANG_JSON_CHK_MENU_CLASS": "Kontrollér menuklassemodulkonfigurationen",
+    "VTLANG_JSON_CHK_INJECTION": "Kontrollér filindskydningsmodulkonfigurationen",
+    "VTLANG_JSON_CHK_AUTO_MEMDISK": "Kontrollér automatisk memdisk-modulkonfigurationen",
+    "VTLANG_JSON_CHK_IMG_LIST": "Kontrollér afbildningsfillistemodulkonfigurationen",
+    "VTLANG_JSON_CHK_IMG_BLIST": "Kontrollér afbildningsfilsortlistningsmodulkonfigurationen",
+    "VTLANG_JSON_CHK_CONF_REPLACE": "Kontrollér opstartskonfigurationserstatningsmodulkonfigurationen",
+    "VTLANG_JSON_CHK_DUD": "Kontrollér DUD-modulkonfigurationen",
+    "VTLANG_JSON_CHK_PASSWORD": "Kontrollér adgangskodemodulkonfigurationen",
+    
+    "VTLANG_NORMAL_MODE": "Start i normal tilstand",
+    "VTLANG_WIMBOOT_MODE": "Start i wimboot tilstand",
+    "VTLANG_GRUB2_MODE": "Start i grub2 tilstand",
+    "VTLANG_MEMDISK_MODE": "Start i memdisk tilstand",
+    
+    "VTLANG_RET_TO_LISTVIEW": "Vend tilbage til listevisning",
+    "VTLANG_RET_TO_TREEVIEW": "Vend tilbage til trævisning",
+    
+    "VTLANG_NO_AUTOINS_SCRIPT": "Start uden skabelon til automatisk installation",
+    "VTLANG_AUTOINS_USE": "Start med",
+    
+    "VTLANG_NO_PERSIST": "Start uden databevarelse",
+    "VTLANG_PERSIST_USE": "Start med",
+    
+    "VTLANG_BROWER_RETURN": "Vend tilbage",
+    
+    "VTLANG_ENTER_EXIT": "tast Enter for at afslutte",
+    "VTLANG_ENTER_REBOOT": "tast Enter for at genstarte",
+    "VTLANG_ENTER_CONTINUE": "tast Enter for at fortsætte",
+    
+    "VTLANG_CTRL_TEMP_SET": "Midlertidig kontrolindstillinger",
+    "VTLANG_WIN11_BYPASS_CHECK": "Forbigå CPU/TPM/SecureBoot-kontrol ved installation af Windows 11",
+    "VTLANG_WIN11_BYPASS_NRO": "Forbigå kravet om en online-konto ved installation af Windows 11",
+    "VTLANG_LINUX_REMOUNT": "Montér Ventoy-partitionen efter Linux er startet",
+    "VTLANG_SECONDARY_BOOT_MENU": "Vis den sekundære opstartsmenu",
+    
+    "MENU_STR_XXX": ""
+}
